@@ -32,7 +32,7 @@ This script employs two methods:
 
 ## Usage
 
-1.  Clone the repository: `git clone [repository URL]`
+1.  Clone the repository: `git clone https://github.com/proxydom/discrete_logarithm`
 2.  Run the script:
 
 ```bash
