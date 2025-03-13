@@ -1,6 +1,6 @@
 # Discrete Logarithm Solver in Python
 
-This Python script calculates discrete logarithms, a foundational problem in cryptography, particularly in the Diffie-Hellman key exchange.
+This Python script calculates discrete logarithms, a foundational problem in cryptography, particularly in the Diffie-Hellman key exchange. This simple script really helped me during a CTF where i was required to give the result of a very complex discrete logarithm.
 
 ## What is a Discrete Logarithm?
 
